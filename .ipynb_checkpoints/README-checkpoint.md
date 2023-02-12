@@ -1,4 +1,6 @@
-# G27-Group-Project
+# Portugal-bank-marketing-analysis
+Analysis of the Marketing Campaigns of a Portugal bank 
+- G27 Group Project
 
 ## Analysis of the Marketing Campaigns of a Portugal bank 
 
