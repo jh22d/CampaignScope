@@ -1,4 +1,6 @@
 # Portugal Bank Marketing Analysis
+## Data Source:
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 ## Contributor: 
 - Jinghan Xu: jh0220x@gmail.com
