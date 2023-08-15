@@ -13,6 +13,6 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 - Janice Xu
 
 ## Accomplishment:
-- Conducted and visualized the customer segmentation based on the variables collected for data sets of 4,1189 and preformed a summary plot including histogram, boxplots and scatterplots. 
-- Applied stratified sampling and analyzed the influence of previous market strategy implemented by the bank on its customers with the support of violin plot. 
-- Predicted the popularity of a new product among the customers with different identities through K-NN and K-Means models which achieved 73.5% accuracy.
+- Conducted and visualized the customer segmentation based on the variables collected for data sets of 4,1189 and performed a summary plot including histogram, boxplots and scatterplots. 
+- Applied stratified sampling and analyzed the influence of previous market strategies implemented by the bank on its customers with the support of a violin plot. 
+- Predicted the popularity of a new product among customers with different identities through K-NN and K-Means models which achieved 73.5% accuracy.
